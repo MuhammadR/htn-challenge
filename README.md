@@ -14,7 +14,7 @@ This is the raw data you're given.
 *Day 1.* Cash flow: 0, Market Value: 100
 
 *Day 2.* Cash flow: 15, Market Value: 120
-
+d
 *Day 3.* Cash flow: 10, Market Value: 127
 
 ##### Sub-periods
